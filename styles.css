@@ -1,5 +1,5 @@
 .bg-img{
-    background-image: url("img2.jpg");
+    background-image: url("bgimg.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     filter: blur(8px);
